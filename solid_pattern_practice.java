@@ -15,7 +15,7 @@ Design interfaces for Printer and Scanner. Create a MultiFunctionPrinter class t
 Create a simple Notification class that uses EmailService to send notifications. Reverse the dependency by introducing an INotificationService interface, allowing you to easily switch to SMSService in the future without altering the Notification class.	
 
 */
-
+//adding the comment to push the first commit 
 //example-1
 //implement the SOLID Principle 
 
